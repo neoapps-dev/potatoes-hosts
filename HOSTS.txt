@@ -1,1 +1,1 @@
-google.potato: http/https://google.com
+google.potato: https://google.com
