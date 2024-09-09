@@ -1,2 +1,3 @@
 hosts.potato: https://raw.githubusercontent.com/neoapps-dev/potatoes-hosts/main
 ip.potato: https://whatismyipaddress.com
+google.potato: https://google.com
