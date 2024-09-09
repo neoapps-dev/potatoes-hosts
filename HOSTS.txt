@@ -1,1 +1,1 @@
-hosts.potato: https://google.com
+hosts.potato: https://raw.githubusercontent.com/neoapps-dev/potatoes-hosts/main
