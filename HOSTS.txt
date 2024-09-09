@@ -3,3 +3,4 @@ ip.potato: https://www.whatsmyip.org
 google.potato: https://google.com
 yt.potato: https://youtube.com
 proxy.potato: https://whatismyproxy.com
+testing.potato: gh/neoapps-dev/potatoes-hosts/main
