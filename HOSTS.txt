@@ -1,1 +1,2 @@
 google.potato: https://google.com
+hosts.potato: gh/neoapps-dev/potatoes-hosts/main
