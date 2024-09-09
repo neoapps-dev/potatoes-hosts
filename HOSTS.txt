@@ -1,3 +1,4 @@
 hosts.potato: https://raw.githubusercontent.com/neoapps-dev/potatoes-hosts/main
 ip.potato: https://www.whatsmyip.org
 google.potato: https://google.com
+yt.potato: https://youtube.com
